@@ -1,0 +1,6118 @@
+
+In directory: /Jatin/MS/cs510/Assignment-4/./data/train/
+
+0000_leopards
+0001_automobiles
+0002_leopards
+0003_zebra
+0004_automobiles
+0005_leopards
+0006_airplane_side
+0007_automobiles
+0008_zebra
+0009_leopards
+0010_zebra
+0011_zebra
+0012_zebra
+0013_zebra
+0014_automobiles
+0015_zebra
+0016_leopards
+0017_zebra
+0018_automobiles
+0019_zebra
+0020_airplane_side
+0021_automobiles
+0022_airplane_side
+0023_automobiles
+0024_automobiles
+0025_leopards
+0026_zebra
+0027_airplane_side
+0028_leopards
+0029_automobiles
+0030_leopards
+0031_leopards
+0032_leopards
+0033_airplane_side
+0034_leopards
+0035_automobiles
+0036_zebra
+0037_automobiles
+0038_leopards
+0039_airplane_side
+0040_automobiles
+0041_automobiles
+0042_zebra
+0043_airplane_side
+0044_zebra
+0045_zebra
+0046_leopards
+0047_airplane_side
+0048_airplane_side
+0049_leopards
+0050_automobiles
+0051_leopards
+0052_airplane_side
+0053_leopards
+0054_leopards
+0055_automobiles
+0056_zebra
+0057_leopards
+0058_automobiles
+0059_leopards
+0060_leopards
+0061_leopards
+0062_leopards
+0063_automobiles
+0064_airplane_side
+0065_leopards
+0066_leopards
+0067_leopards
+0068_leopards
+0069_automobiles
+0070_airplane_side
+0071_automobiles
+0072_zebra
+0073_leopards
+0074_zebra
+0075_automobiles
+0076_zebra
+0077_airplane_side
+0078_zebra
+0079_leopards
+0080_airplane_side
+0081_leopards
+0082_leopards
+0083_zebra
+0084_automobiles
+0085_automobiles
+0086_airplane_side
+0087_airplane_side
+0088_airplane_side
+0089_zebra
+0090_zebra
+0091_leopards
+0092_zebra
+0093_zebra
+0094_airplane_side
+0095_airplane_side
+0096_airplane_side
+0097_airplane_side
+0098_airplane_side
+0099_leopards
+0100_zebra
+0101_airplane_side
+0102_automobiles
+0103_airplane_side
+0104_automobiles
+0105_airplane_side
+0106_leopards
+0107_zebra
+0108_airplane_side
+0109_airplane_side
+0110_zebra
+0111_automobiles
+0112_zebra
+0113_airplane_side
+0114_airplane_side
+0115_airplane_side
+0116_airplane_side
+0117_zebra
+0118_leopards
+0119_automobiles
+0120_airplane_side
+0121_airplane_side
+0122_airplane_side
+0123_zebra
+0124_leopards
+0125_leopards
+0126_leopards
+0127_zebra
+0128_automobiles
+0129_airplane_side
+0130_automobiles
+0131_automobiles
+0132_leopards
+0133_automobiles
+0134_zebra
+0135_zebra
+0136_airplane_side
+0137_leopards
+0138_automobiles
+0139_leopards
+0140_automobiles
+0141_airplane_side
+0142_automobiles
+0143_airplane_side
+0144_leopards
+0145_leopards
+0146_airplane_side
+0147_airplane_side
+0148_zebra
+0149_automobiles
+0150_zebra
+0151_leopards
+0152_leopards
+0153_automobiles
+0154_zebra
+0155_leopards
+0156_leopards
+0157_zebra
+0158_airplane_side
+0159_automobiles
+0160_automobiles
+0161_zebra
+0162_airplane_side
+0163_airplane_side
+0164_airplane_side
+0165_airplane_side
+0166_leopards
+0167_leopards
+0168_leopards
+0169_airplane_side
+0170_leopards
+0171_leopards
+0172_automobiles
+0173_airplane_side
+0174_leopards
+0175_airplane_side
+0176_zebra
+0177_airplane_side
+0178_automobiles
+0179_zebra
+0180_automobiles
+0181_automobiles
+0182_leopards
+0183_airplane_side
+0184_leopards
+0185_automobiles
+0186_airplane_side
+0187_airplane_side
+0188_airplane_side
+0189_leopards
+0190_zebra
+0191_airplane_side
+0192_zebra
+0193_zebra
+0194_airplane_side
+0195_airplane_side
+0196_automobiles
+0197_airplane_side
+0198_zebra
+0199_airplane_side
+0200_zebra
+0201_leopards
+0202_airplane_side
+0203_leopards
+0204_leopards
+0205_automobiles
+0206_leopards
+0207_automobiles
+0208_automobiles
+0209_zebra
+0210_airplane_side
+0211_zebra
+0212_leopards
+0213_automobiles
+0214_zebra
+0215_airplane_side
+0216_leopards
+0217_automobiles
+0218_zebra
+0219_airplane_side
+0220_zebra
+0221_leopards
+0222_automobiles
+0223_leopards
+0224_zebra
+0225_zebra
+0226_zebra
+0227_automobiles
+0228_automobiles
+0229_automobiles
+0230_automobiles
+0231_automobiles
+0232_automobiles
+0233_automobiles
+0234_airplane_side
+0235_leopards
+0236_airplane_side
+0237_zebra
+0238_zebra
+0239_automobiles
+0240_automobiles
+0241_automobiles
+0242_zebra
+0243_leopards
+0244_zebra
+0245_zebra
+0246_automobiles
+0247_leopards
+0248_leopards
+0249_airplane_side
+0250_leopards
+0251_automobiles
+0252_airplane_side
+0253_airplane_side
+0254_automobiles
+0255_automobiles
+0256_zebra
+0257_airplane_side
+0258_zebra
+0259_airplane_side
+0260_automobiles
+0261_leopards
+0262_leopards
+0263_leopards
+0264_airplane_side
+0265_zebra
+0266_automobiles
+0267_automobiles
+0268_zebra
+0269_automobiles
+0270_airplane_side
+0271_airplane_side
+0272_zebra
+0273_airplane_side
+0274_airplane_side
+0275_airplane_side
+0276_leopards
+0277_airplane_side
+0278_airplane_side
+0279_zebra
+0280_automobiles
+0281_leopards
+0282_zebra
+0283_airplane_side
+0284_airplane_side
+0285_automobiles
+0286_airplane_side
+0287_leopards
+0288_airplane_side
+0289_zebra
+0290_automobiles
+0291_leopards
+0292_zebra
+0293_automobiles
+0294_automobiles
+0295_automobiles
+0296_leopards
+0297_automobiles
+0298_leopards
+0299_zebra
+0300_zebra
+0301_airplane_side
+0302_zebra
+0303_zebra
+0304_leopards
+0305_automobiles
+0306_zebra
+0307_airplane_side
+0308_airplane_side
+0309_leopards
+0310_leopards
+0311_leopards
+0312_automobiles
+0313_automobiles
+0314_leopards
+0315_zebra
+0316_leopards
+0317_automobiles
+0318_leopards
+0319_leopards
+0320_zebra
+0321_automobiles
+0322_zebra
+0323_leopards
+0324_automobiles
+0325_automobiles
+0326_automobiles
+0327_zebra
+0328_airplane_side
+0329_leopards
+0330_leopards
+0331_zebra
+0332_automobiles
+0333_automobiles
+0334_leopards
+0335_zebra
+0336_leopards
+0337_airplane_side
+0338_zebra
+0339_airplane_side
+0340_airplane_side
+0341_automobiles
+0342_automobiles
+0343_leopards
+0344_zebra
+0345_automobiles
+0346_automobiles
+0347_automobiles
+0348_zebra
+0349_airplane_side
+0350_leopards
+0351_leopards
+0352_zebra
+0353_zebra
+0354_zebra
+0355_zebra
+0356_zebra
+0357_leopards
+0358_leopards
+0359_airplane_side
+0360_automobiles
+0361_airplane_side
+0362_zebra
+0363_airplane_side
+0364_zebra
+0365_automobiles
+0366_zebra
+0367_zebra
+0368_automobiles
+0369_airplane_side
+0370_automobiles
+0371_automobiles
+0372_automobiles
+0373_automobiles
+0374_airplane_side
+0375_leopards
+0376_zebra
+0377_leopards
+0378_airplane_side
+0379_airplane_side
+0380_airplane_side
+0381_zebra
+0382_zebra
+0383_automobiles
+0384_zebra
+0385_zebra
+0386_airplane_side
+0387_airplane_side
+0388_leopards
+0389_automobiles
+0390_zebra
+0391_airplane_side
+0392_zebra
+0393_leopards
+0394_automobiles
+0395_zebra
+0396_leopards
+0397_automobiles
+0398_zebra
+0399_zebra
+
+In directory: /Jatin/MS/cs510/Assignment-4/./data/testing/
+
+Total 400 Training Images are loaded 
+zebra size is 100
+airplanes size is 100
+leopards size is 100
+automobile size is 100
+
+img_data size is0
+img_data size is400class_end_indexs are100
+class_end_indexs are200
+class_end_indexs are300
+class_end_indexs are400
+File is opened
+
+vocabulary size is 800 x 128
+0
+
+no of keypoints 1067
+1
+
+no of keypoints 385
+2
+
+no of keypoints 488
+3
+
+no of keypoints 1397
+4
+
+no of keypoints 206
+5
+
+no of keypoints 1296
+6
+
+no of keypoints 312
+7
+
+no of keypoints 313
+8
+
+no of keypoints 578
+9
+
+no of keypoints 2666
+10
+
+no of keypoints 1670
+11
+
+no of keypoints 1652
+12
+
+no of keypoints 253
+13
+
+no of keypoints 2029
+14
+
+no of keypoints 972
+15
+
+no of keypoints 1216
+16
+
+no of keypoints 1515
+17
+
+no of keypoints 2040
+18
+
+no of keypoints 959
+19
+
+no of keypoints 1029
+20
+
+no of keypoints 1726
+21
+
+no of keypoints 1574
+22
+
+no of keypoints 2229
+23
+
+no of keypoints 661
+24
+
+no of keypoints 885
+25
+
+no of keypoints 1800
+26
+
+no of keypoints 1249
+27
+
+no of keypoints 1248
+28
+
+no of keypoints 1325
+29
+
+no of keypoints 841
+30
+
+no of keypoints 1163
+31
+
+no of keypoints 1214
+32
+
+no of keypoints 952
+33
+
+no of keypoints 1645
+34
+
+no of keypoints 290
+35
+
+no of keypoints 2081
+36
+
+no of keypoints 2170
+37
+
+no of keypoints 2969
+38
+
+no of keypoints 1039
+39
+
+no of keypoints 235
+40
+
+no of keypoints 345
+41
+
+no of keypoints 973
+42
+
+no of keypoints 1086
+43
+
+no of keypoints 1457
+44
+
+no of keypoints 1305
+45
+
+no of keypoints 818
+46
+
+no of keypoints 1201
+47
+
+no of keypoints 1110
+48
+
+no of keypoints 1119
+49
+
+no of keypoints 1422
+50
+
+no of keypoints 387
+51
+
+no of keypoints 750
+52
+
+no of keypoints 1728
+53
+
+no of keypoints 413
+54
+
+no of keypoints 320
+55
+
+no of keypoints 657
+56
+
+no of keypoints 989
+57
+
+no of keypoints 1513
+58
+
+no of keypoints 1363
+59
+
+no of keypoints 998
+60
+
+no of keypoints 1749
+61
+
+no of keypoints 396
+62
+
+no of keypoints 2068
+63
+
+no of keypoints 436
+64
+
+no of keypoints 929
+65
+
+no of keypoints 471
+66
+
+no of keypoints 297
+67
+
+no of keypoints 952
+68
+
+no of keypoints 3038
+69
+
+no of keypoints 831
+70
+
+no of keypoints 1006
+71
+
+no of keypoints 1199
+72
+
+no of keypoints 1682
+73
+
+no of keypoints 1702
+74
+
+no of keypoints 1556
+75
+
+no of keypoints 482
+76
+
+no of keypoints 764
+77
+
+no of keypoints 1082
+78
+
+no of keypoints 1813
+79
+
+no of keypoints 176
+80
+
+no of keypoints 1908
+81
+
+no of keypoints 665
+82
+
+no of keypoints 528
+83
+
+no of keypoints 2085
+84
+
+no of keypoints 1121
+85
+
+no of keypoints 1269
+86
+
+no of keypoints 1108
+87
+
+no of keypoints 477
+88
+
+no of keypoints 666
+89
+
+no of keypoints 385
+90
+
+no of keypoints 509
+91
+
+no of keypoints 2761
+92
+
+no of keypoints 1480
+93
+
+no of keypoints 879
+94
+
+no of keypoints 2759
+95
+
+no of keypoints 792
+96
+
+no of keypoints 335
+97
+
+no of keypoints 2380
+98
+
+no of keypoints 1629
+99
+
+no of keypoints 2020
+100
+
+no of keypoints 554
+101
+
+no of keypoints 129
+102
+
+no of keypoints 422
+103
+
+no of keypoints 2168
+104
+
+no of keypoints 478
+105
+
+no of keypoints 401
+106
+
+no of keypoints 2658
+107
+
+no of keypoints 692
+108
+
+no of keypoints 595
+109
+
+no of keypoints 2946
+110
+
+no of keypoints 491
+111
+
+no of keypoints 879
+112
+
+no of keypoints 370
+113
+
+no of keypoints 861
+114
+
+no of keypoints 157
+115
+
+no of keypoints 446
+116
+
+no of keypoints 634
+117
+
+no of keypoints 296
+118
+
+no of keypoints 1157
+119
+
+no of keypoints 1374
+120
+
+no of keypoints 303
+121
+
+no of keypoints 1390
+122
+
+no of keypoints 735
+123
+
+no of keypoints 1139
+124
+
+no of keypoints 244
+125
+
+no of keypoints 250
+126
+
+no of keypoints 290
+127
+
+no of keypoints 285
+128
+
+no of keypoints 154
+129
+
+no of keypoints 265
+130
+
+no of keypoints 136
+131
+
+no of keypoints 572
+132
+
+no of keypoints 717
+133
+
+no of keypoints 1073
+134
+
+no of keypoints 238
+135
+
+no of keypoints 1573
+136
+
+no of keypoints 341
+137
+
+no of keypoints 1855
+138
+
+no of keypoints 977
+139
+
+no of keypoints 503
+140
+
+no of keypoints 1893
+141
+
+no of keypoints 166
+142
+
+no of keypoints 979
+143
+
+no of keypoints 154
+144
+
+no of keypoints 222
+145
+
+no of keypoints 3889
+146
+
+no of keypoints 302
+147
+
+no of keypoints 297
+148
+
+no of keypoints 1477
+149
+
+no of keypoints 340
+150
+
+no of keypoints 573
+151
+
+no of keypoints 96
+152
+
+no of keypoints 780
+153
+
+no of keypoints 1587
+154
+
+no of keypoints 137
+155
+
+no of keypoints 380
+156
+
+no of keypoints 265
+157
+
+no of keypoints 250
+158
+
+no of keypoints 328
+159
+
+no of keypoints 444
+160
+
+no of keypoints 285
+161
+
+no of keypoints 1105
+162
+
+no of keypoints 268
+163
+
+no of keypoints 414
+164
+
+no of keypoints 418
+165
+
+no of keypoints 257
+166
+
+no of keypoints 167
+167
+
+no of keypoints 214
+168
+
+no of keypoints 434
+169
+
+no of keypoints 3275
+170
+
+no of keypoints 519
+171
+
+no of keypoints 256
+172
+
+no of keypoints 163
+173
+
+no of keypoints 309
+174
+
+no of keypoints 915
+175
+
+no of keypoints 593
+176
+
+no of keypoints 423
+177
+
+no of keypoints 649
+178
+
+no of keypoints 1059
+179
+
+no of keypoints 193
+180
+
+no of keypoints 304
+181
+
+no of keypoints 243
+182
+
+no of keypoints 773
+183
+
+no of keypoints 286
+184
+
+no of keypoints 2238
+185
+
+no of keypoints 1143
+186
+
+no of keypoints 408
+187
+
+no of keypoints 6149
+188
+
+no of keypoints 1667
+189
+
+no of keypoints 297
+190
+
+no of keypoints 501
+191
+
+no of keypoints 157
+192
+
+no of keypoints 1367
+193
+
+no of keypoints 1424
+194
+
+no of keypoints 1439
+195
+
+no of keypoints 324
+196
+
+no of keypoints 528
+197
+
+no of keypoints 327
+198
+
+no of keypoints 416
+199
+
+no of keypoints 262
+200
+
+no of keypoints 2181
+201
+
+no of keypoints 109
+202
+
+no of keypoints 289
+203
+
+no of keypoints 278
+204
+
+no of keypoints 94
+205
+
+no of keypoints 192
+206
+
+no of keypoints 210
+207
+
+no of keypoints 146
+208
+
+no of keypoints 236
+209
+
+no of keypoints 2185
+210
+
+no of keypoints 384
+211
+
+no of keypoints 195
+212
+
+no of keypoints 299
+213
+
+no of keypoints 220
+214
+
+no of keypoints 116
+215
+
+no of keypoints 3795
+216
+
+no of keypoints 162
+217
+
+no of keypoints 245
+218
+
+no of keypoints 269
+219
+
+no of keypoints 6199
+220
+
+no of keypoints 361
+221
+
+no of keypoints 129
+222
+
+no of keypoints 170
+223
+
+no of keypoints 270
+224
+
+no of keypoints 1769
+225
+
+no of keypoints 137
+226
+
+no of keypoints 143
+227
+
+no of keypoints 1528
+228
+
+no of keypoints 289
+229
+
+no of keypoints 184
+230
+
+no of keypoints 188
+231
+
+no of keypoints 120
+232
+
+no of keypoints 65
+233
+
+no of keypoints 304
+234
+
+no of keypoints 350
+235
+
+no of keypoints 292
+236
+
+no of keypoints 132
+237
+
+no of keypoints 1004
+238
+
+no of keypoints 160
+239
+
+no of keypoints 265
+240
+
+no of keypoints 96
+241
+
+no of keypoints 165
+242
+
+no of keypoints 1345
+243
+
+no of keypoints 280
+244
+
+no of keypoints 901
+245
+
+no of keypoints 1035
+246
+
+no of keypoints 95
+247
+
+no of keypoints 78
+248
+
+no of keypoints 140
+249
+
+no of keypoints 218
+250
+
+no of keypoints 120
+251
+
+no of keypoints 2327
+252
+
+no of keypoints 667
+253
+
+no of keypoints 2862
+254
+
+no of keypoints 108
+255
+
+no of keypoints 469
+256
+
+no of keypoints 213
+257
+
+no of keypoints 120
+258
+
+no of keypoints 1641
+259
+
+no of keypoints 193
+260
+
+no of keypoints 240
+261
+
+no of keypoints 123
+262
+
+no of keypoints 948
+263
+
+no of keypoints 114
+264
+
+no of keypoints 183
+265
+
+no of keypoints 325
+266
+
+no of keypoints 442
+267
+
+no of keypoints 178
+268
+
+no of keypoints 314
+269
+
+no of keypoints 249
+270
+
+no of keypoints 2456
+271
+
+no of keypoints 379
+272
+
+no of keypoints 192
+273
+
+no of keypoints 283
+274
+
+no of keypoints 1526
+275
+
+no of keypoints 108
+276
+
+no of keypoints 1381
+277
+
+no of keypoints 213
+278
+
+no of keypoints 1773
+279
+
+no of keypoints 5626
+280
+
+no of keypoints 194
+281
+
+no of keypoints 221
+282
+
+no of keypoints 177
+283
+
+no of keypoints 198
+284
+
+no of keypoints 268
+285
+
+no of keypoints 253
+286
+
+no of keypoints 237
+287
+
+no of keypoints 275
+288
+
+no of keypoints 334
+289
+
+no of keypoints 797
+290
+
+no of keypoints 263
+291
+
+no of keypoints 282
+292
+
+no of keypoints 2273
+293
+
+no of keypoints 183
+294
+
+no of keypoints 123
+295
+
+no of keypoints 1378
+296
+
+no of keypoints 374
+297
+
+no of keypoints 5437
+298
+
+no of keypoints 204
+299
+
+no of keypoints 149
+300
+
+no of keypoints 2225
+301
+
+no of keypoints 2046
+302
+
+no of keypoints 10319
+303
+
+no of keypoints 5719
+304
+
+no of keypoints 513
+305
+
+no of keypoints 1571
+306
+
+no of keypoints 2272
+307
+
+no of keypoints 1758
+308
+
+no of keypoints 814
+309
+
+no of keypoints 2848
+310
+
+no of keypoints 4191
+311
+
+no of keypoints 713
+312
+
+no of keypoints 483
+313
+
+no of keypoints 1215
+314
+
+no of keypoints 3014
+315
+
+no of keypoints 754
+316
+
+no of keypoints 1103
+317
+
+no of keypoints 1393
+318
+
+no of keypoints 923
+319
+
+no of keypoints 5498
+320
+
+no of keypoints 1616
+321
+
+no of keypoints 2429
+322
+
+no of keypoints 339
+323
+
+no of keypoints 1495
+324
+
+no of keypoints 2642
+325
+
+no of keypoints 1793
+326
+
+no of keypoints 1193
+327
+
+no of keypoints 1340
+328
+
+no of keypoints 2105
+329
+
+no of keypoints 2130
+330
+
+no of keypoints 2960
+331
+
+no of keypoints 2709
+332
+
+no of keypoints 498
+333
+
+no of keypoints 5100
+334
+
+no of keypoints 3106
+335
+
+no of keypoints 1978
+336
+
+no of keypoints 2069
+337
+
+no of keypoints 928
+338
+
+no of keypoints 3808
+339
+
+no of keypoints 1431
+340
+
+no of keypoints 1543
+341
+
+no of keypoints 5285
+342
+
+no of keypoints 5719
+343
+
+no of keypoints 1858
+344
+
+no of keypoints 5578
+345
+
+no of keypoints 2165
+346
+
+no of keypoints 2054
+347
+
+no of keypoints 1160
+348
+
+no of keypoints 2255
+349
+
+no of keypoints 3844
+350
+
+no of keypoints 6032
+351
+
+no of keypoints 4858
+352
+
+no of keypoints 513
+353
+
+no of keypoints 1286
+354
+
+no of keypoints 496
+355
+
+no of keypoints 2619
+356
+
+no of keypoints 2765
+357
+
+no of keypoints 2587
+358
+
+no of keypoints 6047
+359
+
+no of keypoints 2636
+360
+
+no of keypoints 5221
+361
+
+no of keypoints 1814
+362
+
+no of keypoints 348
+363
+
+no of keypoints 6273
+364
+
+no of keypoints 4417
+365
+
+no of keypoints 1584
+366
+
+no of keypoints 1253
+367
+
+no of keypoints 606
+368
+
+no of keypoints 1298
+369
+
+no of keypoints 676
+370
+
+no of keypoints 613
+371
+
+no of keypoints 1028
+372
+
+no of keypoints 2563
+373
+
+no of keypoints 6092
+374
+
+no of keypoints 1388
+375
+
+no of keypoints 6016
+376
+
+no of keypoints 1894
+377
+
+no of keypoints 1492
+378
+
+no of keypoints 1441
+379
+
+no of keypoints 985
+380
+
+no of keypoints 6479
+381
+
+no of keypoints 794
+382
+
+no of keypoints 5717
+383
+
+no of keypoints 5407
+384
+
+no of keypoints 544
+385
+
+no of keypoints 226
+386
+
+no of keypoints 1887
+387
+
+no of keypoints 3205
+388
+
+no of keypoints 2163
+389
+
+no of keypoints 6794
+390
+
+no of keypoints 1256
+391
+
+no of keypoints 2266
+392
+
+no of keypoints 1128
+393
+
+no of keypoints 978
+394
+
+no of keypoints 1280
+395
+
+no of keypoints 265
+396
+
+no of keypoints 979
+397
+
+no of keypoints 1335
+398
+
+no of keypoints 792
+399
+
+no of keypoints 2482
+
+SVM is training class airplane
+negative class is automobiles
+negative class is leopards
+negative class is zebrasample size is400x 800
+SVM is training class automobiles
+negative class is airplane
+negative class is leopards
+negative class is zebrasample size is400x 800
+SVM is training class leopards
+negative class is airplane
+negative class is automobiles
+negative class is zebrasample size is400x 800
+SVM is training class zebra
+negative class is airplane
+negative class is automobiles
+negative class is leopardssample size is400x 800training is done
+
+SVM is testing class airplane
+results for class : airplane : [1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1]
+
+results for class : automobiles : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+results for class : leopards : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+results for class : zebra : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+SVM is testing class automobiles
+results for class : airplane : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+results for class : automobiles : [1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1]
+
+results for class : leopards : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+results for class : zebra : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+SVM is testing class leopards
+results for class : airplane : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+results for class : automobiles : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+results for class : leopards : [1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 0; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1]
+
+results for class : zebra : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+SVM is testing class zebra
+results for class : airplane : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+results for class : automobiles : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+results for class : leopards : [0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0]
+
+results for class : zebra : [1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1; 1]
+TEst is 1here
+File is opened
+
+vocabulary size is 800 x 128
+response size is 1x 800
+Test Image name : 0000_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.996945
+class : automobilesresponse 1.95454
+class : leopardsresponse 0.928493
+class : zebraresponse 1.47865
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0001_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.3812
+class : automobilesresponse 0.592046
+class : leopardsresponse -0.825778
+class : zebraresponse 1.17982
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0002_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 2.15311
+class : automobilesresponse 1.58557
+class : leopardsresponse 0.874723
+class : zebraresponse -1.40797
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0003_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.945319
+class : automobilesresponse -0.544072
+class : leopardsresponse 0.827636
+class : zebraresponse 1.25668
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0004_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.75672
+class : automobilesresponse 2.35123
+class : leopardsresponse 5.91872
+class : zebraresponse 2.74198
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0005_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.77831
+class : automobilesresponse 1.05048
+class : leopardsresponse 4.8595
+class : zebraresponse -2.6496
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0006_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.890422
+class : automobilesresponse 2.22957
+class : leopardsresponse -1.17544
+class : zebraresponse 0.904597
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0007_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.449575
+class : automobilesresponse 1.42945
+class : leopardsresponse 9.01712
+class : zebraresponse 2.22744
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0008_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.52374
+class : automobilesresponse -0.0116476
+class : leopardsresponse 0.276362
+class : zebraresponse 1.0746
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0009_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.716093
+class : automobilesresponse 1.28833
+class : leopardsresponse 7.16458
+class : zebraresponse -1.58258
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0010_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.2572
+class : automobilesresponse -0.895344
+class : leopardsresponse 0.971146
+class : zebraresponse 1.0284
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0011_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.816364
+class : automobilesresponse 0.0881962
+class : leopardsresponse 1.02508
+class : zebraresponse 0.902588
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0012_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.34885
+class : automobilesresponse 0.0418733
+class : leopardsresponse 0.112589
+class : zebraresponse 1.11791
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0013_automobiles
+class : airplaneresponse 1
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+ detected classes : 2
+class : airplaneresponse -0.220153
+class : automobilesresponse -0.454189
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0014_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.18137
+class : automobilesresponse 1.39464
+class : leopardsresponse 3.21149
+class : zebraresponse 1.3985
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0015_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.232204
+class : automobilesresponse 1.44855
+class : leopardsresponse 5.94048
+class : zebraresponse 2.8083
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0016_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.821435
+class : automobilesresponse -0.746186
+class : leopardsresponse 0.796538
+class : zebraresponse 1.48744
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0017_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+ detected classes : 2
+class : airplaneresponse -0.845884
+class : automobilesresponse -0.282317
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0018_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 2.21667
+class : automobilesresponse 1.55511
+class : leopardsresponse 1.48203
+class : zebraresponse -2.25204
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0019_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 2.08756
+class : automobilesresponse 2.05344
+class : leopardsresponse 4.60776
+class : zebraresponse -7.4273
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0020_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.965708
+class : automobilesresponse 1.18203
+class : leopardsresponse 3.85325
+class : zebraresponse -7.67033
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0021_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.07834
+class : automobilesresponse -0.400461
+class : leopardsresponse 1.16956
+class : zebraresponse 0.865226
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0022_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.42002
+class : automobilesresponse 1.28188
+class : leopardsresponse 9.02103
+class : zebraresponse 3.38875
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0023_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.23106
+class : automobilesresponse 1.97485
+class : leopardsresponse 7.46953
+class : zebraresponse 2.99421
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0024_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.23146
+class : automobilesresponse 0.782546
+class : leopardsresponse 1.43081
+class : zebraresponse -0.375747
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0025_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.582626
+class : automobilesresponse -1.44688
+class : leopardsresponse 2.87136
+class : zebraresponse 1.73928
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0026_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.196631
+class : automobilesresponse 1.25876
+class : leopardsresponse 6.27683
+class : zebraresponse 1.1699
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0027_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.457596
+class : automobilesresponse 0.825831
+class : leopardsresponse 8.8545
+class : zebraresponse 3.28308
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0028_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.80405
+class : automobilesresponse 1.15639
+class : leopardsresponse -1.32017
+class : zebraresponse 1.12667
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0029_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.00337196
+class : automobilesresponse 0.960426
+class : leopardsresponse 2.87861
+class : zebraresponse -0.475615
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0030_leopards
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 1
+ detected classes : 2
+class : automobilesresponse -0.121078
+class : zebraresponse -0.501719
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0031_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.852359
+class : automobilesresponse 0.0247678
+class : leopardsresponse 2.64386
+class : zebraresponse 0.700272
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0032_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.494765
+class : automobilesresponse 0.82334
+class : leopardsresponse 7.6007
+class : zebraresponse 2.61807
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0033_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.20439
+class : automobilesresponse 1.26868
+class : leopardsresponse 2.12483
+class : zebraresponse -5.6467
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0034_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 1
+ detected classes : 2
+class : automobilesresponse -0.22494
+class : zebraresponse -0.339792
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0035_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.088154
+class : automobilesresponse 0.399284
+class : leopardsresponse 5.81088
+class : zebraresponse 2.54528
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0036_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.657214
+class : automobilesresponse 0.00226182
+class : leopardsresponse 0.725969
+class : zebraresponse 1.25765
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0037_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.29369
+class : automobilesresponse 0.146342
+class : leopardsresponse -0.423726
+class : zebraresponse 0.455772
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0038_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.768865
+class : automobilesresponse 0.97721
+class : leopardsresponse 2.43384
+class : zebraresponse 1.28362
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0039_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.0507
+class : automobilesresponse 1.64723
+class : leopardsresponse 5.36444
+class : zebraresponse 2.32637
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0040_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.914976
+class : automobilesresponse 1.11256
+class : leopardsresponse 3.58487
+class : zebraresponse -5.75613
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0041_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 2.27912
+class : automobilesresponse 1.98658
+class : leopardsresponse 3.81901
+class : zebraresponse -5.87042
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0042_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.91779
+class : automobilesresponse 1.71793
+class : leopardsresponse -2.22853
+class : zebraresponse 1.248
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0043_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.845259
+class : automobilesresponse -0.0997772
+class : leopardsresponse 0.239115
+class : zebraresponse 1.50209
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0044_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.190514
+class : automobilesresponse -0.306734
+class : leopardsresponse 2.24775
+class : zebraresponse 1.60291
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0045_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.2984
+class : automobilesresponse 0.826395
+class : leopardsresponse -0.722828
+class : zebraresponse 0.692631
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0046_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.21809
+class : automobilesresponse 1.79689
+class : leopardsresponse 6.54977
+class : zebraresponse 2.16079
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0047_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.712314
+class : automobilesresponse 1.90889
+class : leopardsresponse 6.55352
+class : zebraresponse 2.09362
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0048_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.03133
+class : automobilesresponse 1.59979
+class : leopardsresponse -1.30837
+class : zebraresponse 0.808443
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0049_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.928415
+class : automobilesresponse 1.28654
+class : leopardsresponse 5.08875
+class : zebraresponse 1.31299
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0050_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.971166
+class : automobilesresponse 0.0814076
+class : leopardsresponse 1.93458
+class : zebraresponse 0.692091
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0051_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.45685
+class : automobilesresponse 1.48163
+class : leopardsresponse 1.89882
+class : zebraresponse -1.6099
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0052_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.812074
+class : automobilesresponse 1.64787
+class : leopardsresponse 2.43272
+class : zebraresponse 1.37617
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0053_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.943471
+class : automobilesresponse 1.19155
+class : leopardsresponse 3.97754
+class : zebraresponse -5.33791
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0054_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.42055
+class : automobilesresponse 1.4738
+class : leopardsresponse -1.31167
+class : zebraresponse 0.982822
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0055_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.938042
+class : automobilesresponse 1.48679
+class : leopardsresponse 1.41822
+class : zebraresponse -0.450529
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0056_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.07688
+class : automobilesresponse -2.30207
+class : leopardsresponse 3.55872
+class : zebraresponse 1.75645
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0057_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.820503
+class : automobilesresponse 1.15904
+class : leopardsresponse 5.13204
+class : zebraresponse -4.63029
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0058_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.705464
+class : automobilesresponse -0.0186334
+class : leopardsresponse 0.740619
+class : zebraresponse 1.2183
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0059_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.89929
+class : automobilesresponse 1.97501
+class : leopardsresponse 1.99113
+class : zebraresponse -2.7961
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0060_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.38296
+class : automobilesresponse 2.00318
+class : leopardsresponse 5.9582
+class : zebraresponse 1.8116
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0061_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.33891
+class : automobilesresponse 0.945407
+class : leopardsresponse -0.69342
+class : zebraresponse 1.01583
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0062_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.120418
+class : automobilesresponse 1.30838
+class : leopardsresponse 3.00844
+class : zebraresponse 1.00526
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0063_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.44197
+class : automobilesresponse 0.277539
+class : leopardsresponse -0.507068
+class : zebraresponse 1.14278
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0064_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.314339
+class : automobilesresponse 1.33756
+class : leopardsresponse 3.19075
+class : zebraresponse 1.52729
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0065_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.13544
+class : automobilesresponse 0.910767
+class : leopardsresponse -0.197324
+class : zebraresponse 0.863975
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0066_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.741716
+class : automobilesresponse 0.00342269
+class : leopardsresponse 0.600182
+class : zebraresponse 1.52317
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0067_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.313486
+class : automobilesresponse -0.354079
+class : leopardsresponse 7.21737
+class : zebraresponse 2.4043
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0068_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.573761
+class : automobilesresponse 0.90287
+class : leopardsresponse 1.25181
+class : zebraresponse 1.10964
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0069_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.04479
+class : automobilesresponse 2.15484
+class : leopardsresponse -1.29777
+class : zebraresponse 0.988843
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0070_zebra
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 1
+ detected classes : 2
+class : automobilesresponse -0.447902
+class : zebraresponse -0.609767
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0071_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.55236
+class : automobilesresponse 0.818944
+class : leopardsresponse -0.924338
+class : zebraresponse 1.14023
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0072_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.947574
+class : automobilesresponse 0.571136
+class : leopardsresponse -1.214
+class : zebraresponse 0.793319
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0073_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.862058
+class : automobilesresponse 1.18296
+class : leopardsresponse 2.79099
+class : zebraresponse -5.45373
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0074_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.881427
+class : automobilesresponse 0.753538
+class : leopardsresponse 7.78116
+class : zebraresponse 3.57109
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0075_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.56787
+class : automobilesresponse 2.47466
+class : leopardsresponse 3.263
+class : zebraresponse 1.47897
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0076_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.101
+class : automobilesresponse 1.02899
+class : leopardsresponse 4.98622
+class : zebraresponse 1.56911
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0077_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.94067
+class : automobilesresponse 1.3092
+class : leopardsresponse 1.4008
+class : zebraresponse -2.10723
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0078_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.29754
+class : automobilesresponse -0.413697
+class : leopardsresponse 0.308612
+class : zebraresponse 1.23117
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0079_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.73853
+class : automobilesresponse 0.694836
+class : leopardsresponse -2.8256
+class : zebraresponse 1.53705
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0080_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 2.11371
+class : automobilesresponse 1.3895
+class : leopardsresponse 0.709813
+class : zebraresponse -1.72552
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0081_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.48388
+class : automobilesresponse 0.908352
+class : leopardsresponse -1.08637
+class : zebraresponse 1.31276
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0082_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.1361
+class : automobilesresponse -0.48188
+class : leopardsresponse 0.538201
+class : zebraresponse 1.20507
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0083_leopards
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.73161
+class : automobilesresponse -0.0650297
+class : leopardsresponse 0.17807
+class : zebraresponse 0.924233
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0084_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+ detected classes : 2
+class : airplaneresponse -0.300013
+class : automobilesresponse -0.288082
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0085_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.56519
+class : automobilesresponse 0.332061
+class : leopardsresponse 3.75374
+class : zebraresponse 0.131952
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0086_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.269128
+class : automobilesresponse -0.913394
+class : leopardsresponse 2.0293
+class : zebraresponse 1.85324
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0087_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.52759
+class : automobilesresponse 0.869039
+class : leopardsresponse -0.880927
+class : zebraresponse 0.953166
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0088_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.23306
+class : automobilesresponse 0.483239
+class : leopardsresponse -0.525472
+class : zebraresponse 1.19959
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0089_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.807073
+class : automobilesresponse -0.836478
+class : leopardsresponse 1.27655
+class : zebraresponse 1.47809
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0090_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.542795
+class : automobilesresponse 0.0992646
+class : leopardsresponse 0.622174
+class : zebraresponse 1.3662
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0091_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.33168
+class : automobilesresponse 0.980501
+class : leopardsresponse -0.667507
+class : zebraresponse 0.854958
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0092_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.959529
+class : automobilesresponse 1.9402
+class : leopardsresponse 5.11018
+class : zebraresponse 1.75933
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0093_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.15983
+class : automobilesresponse 1.49989
+class : leopardsresponse 7.37189
+class : zebraresponse -4.14678
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0094_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.09059
+class : automobilesresponse 1.54022
+class : leopardsresponse 7.87867
+class : zebraresponse 2.14376
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0095_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.43192
+class : automobilesresponse 0.986024
+class : leopardsresponse -0.480039
+class : zebraresponse 0.896095
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0096_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.993975
+class : automobilesresponse 0.525127
+class : leopardsresponse 4.75742
+class : zebraresponse 1.33957
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0097_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.20188
+class : automobilesresponse 1.39117
+class : leopardsresponse -1.17366
+class : zebraresponse 1.18301
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0098_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.836784
+class : automobilesresponse 1.07008
+class : leopardsresponse 2.09645
+class : zebraresponse -1.18633
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0099_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.872733
+class : automobilesresponse 1.89195
+class : leopardsresponse 6.42254
+class : zebraresponse 1.85226
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0100_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.934815
+class : automobilesresponse -0.548626
+class : leopardsresponse 1.06427
+class : zebraresponse 1.00195
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0101_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.270208
+class : automobilesresponse 1.27292
+class : leopardsresponse 7.46387
+class : zebraresponse 1.39983
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0102_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.83868
+class : automobilesresponse 2.21508
+class : leopardsresponse 1.69556
+class : zebraresponse 2.24241
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0103_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 2.30528
+class : automobilesresponse 0.921587
+class : leopardsresponse 3.61249
+class : zebraresponse -3.2098
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0104_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.783109
+class : automobilesresponse 1.29873
+class : leopardsresponse -6.75223
+class : zebraresponse 3.07323
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0105_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 1
+ detected classes : 2
+class : leopardsresponse -0.275092
+class : zebraresponse -0.694729
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0106_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.16141
+class : automobilesresponse 0.654879
+class : leopardsresponse -0.43203
+class : zebraresponse 1.1913
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0107_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.884613
+class : automobilesresponse 0.292148
+class : leopardsresponse 5.90131
+class : zebraresponse 2.1652
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0108_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.07227
+class : automobilesresponse -0.303629
+class : leopardsresponse 0.633153
+class : zebraresponse 1.22954
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0109_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.26539
+class : automobilesresponse 1.3719
+class : leopardsresponse -1.00396
+class : zebraresponse 1.08214
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0110_leopards
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.7375
+class : automobilesresponse -0.0785608
+class : leopardsresponse 1.15804
+class : zebraresponse 0.558719
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0111_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.42808
+class : automobilesresponse 2.05982
+class : leopardsresponse 8.23736
+class : zebraresponse 2.59304
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0112_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.652196
+class : automobilesresponse 1.62846
+class : leopardsresponse 5.07496
+class : zebraresponse -0.843518
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0113_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.240508
+class : automobilesresponse 1.31983
+class : leopardsresponse 4.92287
+class : zebraresponse -0.552964
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0114_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.915283
+class : automobilesresponse -0.586467
+class : leopardsresponse 2.20603
+class : zebraresponse 0.609883
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0115_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.990585
+class : automobilesresponse 2.4928
+class : leopardsresponse -1.38426
+class : zebraresponse 0.895778
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0116_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.827445
+class : automobilesresponse 1.23669
+class : leopardsresponse 8.71083
+class : zebraresponse -4.81185
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0117_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.15283
+class : automobilesresponse 0.529978
+class : leopardsresponse -0.23025
+class : zebraresponse 1.00967
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0118_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.66256
+class : automobilesresponse 0.83502
+class : leopardsresponse 0.869508
+class : zebraresponse 0.883156
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0119_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.653687
+class : automobilesresponse -0.845056
+class : leopardsresponse 5.95911
+class : zebraresponse 1.90654
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0120_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.76204
+class : automobilesresponse 2.32897
+class : leopardsresponse -2.62378
+class : zebraresponse 1.27534
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0121_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.0568852
+class : automobilesresponse 0.534631
+class : leopardsresponse 0.976093
+class : zebraresponse 1.25526
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0122_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.29806
+class : automobilesresponse 1.83179
+class : leopardsresponse 5.98481
+class : zebraresponse 2.89368
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0123_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.682361
+class : automobilesresponse -0.110814
+class : leopardsresponse 5.31415
+class : zebraresponse 0.931299
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0124_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.60184
+class : automobilesresponse 2.87666
+class : leopardsresponse 2.11627
+class : zebraresponse 2.78226
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0125_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.821765
+class : automobilesresponse 0.58847
+class : leopardsresponse 3.13991
+class : zebraresponse 0.238139
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0126_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.11826
+class : automobilesresponse 0.530986
+class : leopardsresponse 0.947204
+class : zebraresponse 0.675325
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0127_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.738755
+class : automobilesresponse 1.28569
+class : leopardsresponse 7.01391
+class : zebraresponse -0.979255
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0128_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.22684
+class : automobilesresponse 1.83077
+class : leopardsresponse -2.13892
+class : zebraresponse 1.65487
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0129_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.492467
+class : automobilesresponse -0.643635
+class : leopardsresponse 1.68762
+class : zebraresponse 1.14204
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0130_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.20439
+class : automobilesresponse 1.26868
+class : leopardsresponse 2.12483
+class : zebraresponse -5.6467
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0131_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.22519
+class : automobilesresponse 0.977701
+class : leopardsresponse 3.80524
+class : zebraresponse -3.36803
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0132_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.80916
+class : automobilesresponse 1.1972
+class : leopardsresponse 1.91483
+class : zebraresponse -2.46687
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0133_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.16305
+class : automobilesresponse 1.4174
+class : leopardsresponse 3.61533
+class : zebraresponse -1.72941
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0134_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.26888
+class : automobilesresponse -1.43156
+class : leopardsresponse 1.52036
+class : zebraresponse 0.856531
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0135_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.906098
+class : automobilesresponse -0.600528
+class : leopardsresponse 0.815152
+class : zebraresponse 1.31476
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0136_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.58101
+class : automobilesresponse 0.16372
+class : leopardsresponse -0.770688
+class : zebraresponse 1.27409
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0137_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.47594
+class : automobilesresponse 0.755295
+class : leopardsresponse 0.192665
+class : zebraresponse 0.430116
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0138_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 1
+ detected classes : 2
+class : leopardsresponse -0.432767
+class : zebraresponse -0.990143
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0139_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.60295
+class : automobilesresponse 2.19312
+class : leopardsresponse 5.39829
+class : zebraresponse 3.18512
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0140_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.907522
+class : automobilesresponse -0.433992
+class : leopardsresponse 0.689624
+class : zebraresponse 1.38653
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0141_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.26535
+class : automobilesresponse 0.894187
+class : leopardsresponse -0.545357
+class : zebraresponse 0.93364
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0142_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.00045
+class : automobilesresponse -1.06266
+class : leopardsresponse 1.33158
+class : zebraresponse 1.21833
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0143_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.36285
+class : automobilesresponse -0.214476
+class : leopardsresponse 0.345613
+class : zebraresponse 0.869832
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0144_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.607233
+class : automobilesresponse -0.694816
+class : leopardsresponse 1.16533
+class : zebraresponse 1.47154
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0145_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.853533
+class : automobilesresponse 0.749587
+class : leopardsresponse 2.06289
+class : zebraresponse -2.22328
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0146_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.19895
+class : automobilesresponse 2.02809
+class : leopardsresponse -1.58517
+class : zebraresponse 1.25965
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0147_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.22872
+class : automobilesresponse 1.6364
+class : leopardsresponse 2.1126
+class : zebraresponse 1.62438
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0148_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.803565
+class : automobilesresponse -1.11908
+class : leopardsresponse 1.13902
+class : zebraresponse 1.44737
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0149_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.44246
+class : automobilesresponse 2.24681
+class : leopardsresponse -1.84334
+class : zebraresponse 1.04365
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0150_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.16819
+class : automobilesresponse 2.25233
+class : leopardsresponse 3.79711
+class : zebraresponse 0.547256
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0151_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.16423
+class : automobilesresponse 0.918996
+class : leopardsresponse -0.577097
+class : zebraresponse 0.993337
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0152_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.05978
+class : automobilesresponse 0.841841
+class : leopardsresponse -0.481962
+class : zebraresponse 1.02132
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0153_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.186509
+class : automobilesresponse 2.5265
+class : leopardsresponse 2.58114
+class : zebraresponse -1.11929
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0154_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.60008
+class : automobilesresponse 0.796324
+class : leopardsresponse -0.660913
+class : zebraresponse 0.683188
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0155_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.00081
+class : automobilesresponse -0.99992
+class : leopardsresponse 0.783255
+class : zebraresponse 1.74057
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0156_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.41887
+class : automobilesresponse 0.809555
+class : leopardsresponse -0.553004
+class : zebraresponse 1.06553
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0157_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.50973
+class : automobilesresponse 0.632414
+class : leopardsresponse -0.15084
+class : zebraresponse 0.654049
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0158_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.839349
+class : automobilesresponse 1.28226
+class : leopardsresponse -0.57555
+class : zebraresponse 1.08068
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0159_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.870974
+class : automobilesresponse -0.732991
+class : leopardsresponse 1.13573
+class : zebraresponse 1.01134
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0160_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+ detected classes : 2
+class : airplaneresponse -0.313711
+class : automobilesresponse -0.0639527
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0161_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.794149
+class : automobilesresponse -0.249492
+class : leopardsresponse 0.855268
+class : zebraresponse 1.0244
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0162_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.16035
+class : automobilesresponse 1.06782
+class : leopardsresponse -0.617891
+class : zebraresponse 1.00631
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0163_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.209173
+class : automobilesresponse 0.718969
+class : leopardsresponse 8.04064
+class : zebraresponse 0.59498
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0164_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.00879
+class : automobilesresponse 0.505129
+class : leopardsresponse 0.618909
+class : zebraresponse 0.566934
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0165_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.733955
+class : automobilesresponse 0.136187
+class : leopardsresponse 0.548418
+class : zebraresponse 1.17107
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0166_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.22174
+class : automobilesresponse -0.241766
+class : leopardsresponse 0.518551
+class : zebraresponse 0.99788
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0167_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.79106
+class : automobilesresponse 1.16135
+class : leopardsresponse 0.230497
+class : zebraresponse -0.308518
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0168_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.134882
+class : automobilesresponse -1.56415
+class : leopardsresponse 2.27629
+class : zebraresponse 1.7191
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0169_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.28548
+class : automobilesresponse 1.20176
+class : leopardsresponse 5.95223
+class : zebraresponse 1.92743
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0170_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.766949
+class : automobilesresponse 0.392299
+class : leopardsresponse 1.71496
+class : zebraresponse 1.58791
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0171_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.764838
+class : automobilesresponse 1.27764
+class : leopardsresponse 0.140952
+class : zebraresponse -1.33335
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0172_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.66747
+class : automobilesresponse 1.26164
+class : leopardsresponse 1.27282
+class : zebraresponse 1.40743
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0173_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.25274
+class : automobilesresponse 2.21033
+class : leopardsresponse 6.64218
+class : zebraresponse 2.04291
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0174_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.0684069
+class : automobilesresponse 0.629791
+class : leopardsresponse 0.991871
+class : zebraresponse 0.947504
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0175_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.06379
+class : automobilesresponse 1.30256
+class : leopardsresponse 2.48681
+class : zebraresponse -3.16496
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0176_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.285794
+class : automobilesresponse 0.103515
+class : leopardsresponse 0.815648
+class : zebraresponse 1.2089
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0177_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.33567
+class : automobilesresponse 0.712004
+class : leopardsresponse 0.676771
+class : zebraresponse -0.10684
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0178_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.29584
+class : automobilesresponse -1.47321
+class : leopardsresponse 1.85609
+class : zebraresponse 1.09728
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0179_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 1
+ detected classes : 2
+class : leopardsresponse -2.91378
+class : zebraresponse -0.02867
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0180_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.239808
+class : automobilesresponse 0.736564
+class : leopardsresponse 3.31327
+class : zebraresponse 2.15569
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0181_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.174669
+class : automobilesresponse 1.09092
+class : leopardsresponse 5.74639
+class : zebraresponse 2.46137
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0182_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.05003
+class : automobilesresponse -0.473135
+class : leopardsresponse 0.322056
+class : zebraresponse 1.02002
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0183_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.39392
+class : automobilesresponse 1.28492
+class : leopardsresponse -0.82945
+class : zebraresponse 0.970269
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0184_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.47411
+class : automobilesresponse 1.89205
+class : leopardsresponse 6.51476
+class : zebraresponse -9.75213
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0185_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.04538
+class : automobilesresponse 1.01578
+class : leopardsresponse 6.77742
+class : zebraresponse 2.13008
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0186_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.19333
+class : automobilesresponse 1.75279
+class : leopardsresponse -1.02384
+class : zebraresponse 1.0763
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0187_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.25052
+class : automobilesresponse 1.02263
+class : leopardsresponse -0.832933
+class : zebraresponse 1.02616
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0188_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.05087
+class : automobilesresponse 1.42034
+class : leopardsresponse -5.31479
+class : zebraresponse 2.55441
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0189_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.46056
+class : automobilesresponse 2.48766
+class : leopardsresponse -1.93007
+class : zebraresponse 1.1594
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0190_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.0744
+class : automobilesresponse -0.854157
+class : leopardsresponse 0.819451
+class : zebraresponse 1.21321
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0191_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.797234
+class : automobilesresponse 1.63215
+class : leopardsresponse -0.258907
+class : zebraresponse 0.310446
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0192_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.19144
+class : automobilesresponse 0.475608
+class : leopardsresponse -0.50191
+class : zebraresponse 1.03167
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0193_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.75105
+class : automobilesresponse 1.14417
+class : leopardsresponse 3.47562
+class : zebraresponse -2.07205
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0194_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.694754
+class : automobilesresponse 0.463231
+class : leopardsresponse 4.86447
+class : zebraresponse 1.9985
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0195_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.90501
+class : automobilesresponse 3.83528
+class : leopardsresponse 2.59742
+class : zebraresponse 2.12321
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0196_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.599335
+class : automobilesresponse -1.14993
+class : leopardsresponse 3.8874
+class : zebraresponse 1.72884
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0197_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.16806
+class : automobilesresponse 0.00568646
+class : leopardsresponse 4.53071
+class : zebraresponse -1.28773
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0198_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.14467
+class : automobilesresponse 2.38377
+class : leopardsresponse -1.75699
+class : zebraresponse 1.16787
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0199_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.0779
+class : automobilesresponse 1.92578
+class : leopardsresponse -1.36071
+class : zebraresponse 1.26261
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0200_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.795581
+class : automobilesresponse 1.20635
+class : leopardsresponse -5.96819
+class : zebraresponse 0.880087
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0201_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.34394
+class : automobilesresponse 1.83514
+class : leopardsresponse 4.13123
+class : zebraresponse 1.63633
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0202_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.948347
+class : automobilesresponse 1.24746
+class : leopardsresponse 6.43236
+class : zebraresponse -7.4854
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0203_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -2.58406
+class : automobilesresponse 2.22729
+class : leopardsresponse 4.45042
+class : zebraresponse 2.44525
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0204_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.73179
+class : automobilesresponse 0.954733
+class : leopardsresponse 0.314893
+class : zebraresponse -0.555403
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0205_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.66368
+class : automobilesresponse 0.954003
+class : leopardsresponse 1.32952
+class : zebraresponse -2.52595
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0206_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.00077
+class : automobilesresponse -1.00101
+class : leopardsresponse 1.22948
+class : zebraresponse 1.32869
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0207_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.13269
+class : automobilesresponse -0.666274
+class : leopardsresponse 1.18561
+class : zebraresponse 0.797194
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0208_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.981468
+class : automobilesresponse 0.571975
+class : leopardsresponse 6.85551
+class : zebraresponse 1.77485
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0209_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.710255
+class : automobilesresponse 1.31729
+class : leopardsresponse 7.84262
+class : zebraresponse -1.5031
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0210_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.715161
+class : automobilesresponse 1.28917
+class : leopardsresponse 5.57332
+class : zebraresponse -3.2261
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0211_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.70156
+class : automobilesresponse 1.8405
+class : leopardsresponse 1.7207
+class : zebraresponse 1.71493
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0212_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.323181
+class : automobilesresponse -0.644351
+class : leopardsresponse 1.33289
+class : zebraresponse 1.53458
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0213_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.40958
+class : automobilesresponse 1.40246
+class : leopardsresponse 8.24656
+class : zebraresponse 3.49211
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0214_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.20393
+class : automobilesresponse 2.13148
+class : leopardsresponse -1.38492
+class : zebraresponse 0.964665
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0215_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.37049
+class : automobilesresponse 0.909277
+class : leopardsresponse -0.757355
+class : zebraresponse 1.01503
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0216_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.50215
+class : automobilesresponse 0.948383
+class : leopardsresponse -1.08583
+class : zebraresponse 1.15455
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0217_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.95262
+class : automobilesresponse 2.31427
+class : leopardsresponse -1.54569
+class : zebraresponse 1.09363
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0218_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.48198
+class : automobilesresponse 0.310018
+class : leopardsresponse -0.618837
+class : zebraresponse 1.09168
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0219_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.00166
+class : automobilesresponse 1.61315
+class : leopardsresponse 7.86084
+class : zebraresponse 3.17457
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0220_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.7217
+class : automobilesresponse 1.7967
+class : leopardsresponse 6.46248
+class : zebraresponse 3.34839
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0221_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.05837
+class : automobilesresponse 0.699221
+class : leopardsresponse 0.538563
+class : zebraresponse 0.272384
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0222_zebra
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.463295
+class : automobilesresponse -0.122834
+class : leopardsresponse 2.57786
+class : zebraresponse 0.0988889
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0223_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.47257
+class : automobilesresponse 0.396504
+class : leopardsresponse 0.35794
+class : zebraresponse 0.421236
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0224_automobiles
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.502771
+class : automobilesresponse 0.298326
+class : leopardsresponse 3.67909
+class : zebraresponse 1.10904
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0225_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.44408
+class : automobilesresponse 1.05919
+class : leopardsresponse 6.43077
+class : zebraresponse 3.69291
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0226_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.77106
+class : automobilesresponse 2.00081
+class : leopardsresponse 5.44312
+class : zebraresponse 2.64458
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0227_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.715114
+class : automobilesresponse 1.289
+class : leopardsresponse 6.38443
+class : zebraresponse -1.03884
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0228_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.34469
+class : automobilesresponse 0.735739
+class : leopardsresponse -0.533967
+class : zebraresponse 0.99363
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0229_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.625976
+class : automobilesresponse 1.29504
+class : leopardsresponse 6.14657
+class : zebraresponse -1.54994
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0230_automobiles
+class : airplaneresponse 1
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+ detected classes : 2
+class : airplaneresponse -0.184088
+class : automobilesresponse -0.274421
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0231_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.1724
+class : automobilesresponse 0.422697
+class : leopardsresponse 0.0229656
+class : zebraresponse 0.684388
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0232_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.65176
+class : automobilesresponse 1.70166
+class : leopardsresponse -2.44014
+class : zebraresponse 1.2302
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0233_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.17966
+class : automobilesresponse 1.7345
+class : leopardsresponse 4.62903
+class : zebraresponse -5.57581
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0234_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.9532
+class : automobilesresponse -0.307907
+class : leopardsresponse 0.11857
+class : zebraresponse 0.933511
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0235_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.17722
+class : automobilesresponse 2.2417
+class : leopardsresponse -1.78466
+class : zebraresponse 0.940666
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0236_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.538164
+class : automobilesresponse -1.09184
+class : leopardsresponse 1.60013
+class : zebraresponse 1.03344
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0237_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.12086
+class : automobilesresponse 2.12283
+class : leopardsresponse -1.28549
+class : zebraresponse 1.0887
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0238_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.00709
+class : automobilesresponse -0.321155
+class : leopardsresponse 0.414387
+class : zebraresponse 1.29603
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0239_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.28865
+class : automobilesresponse 1.70935
+class : leopardsresponse -1.21903
+class : zebraresponse 0.970387
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0240_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.3684
+class : automobilesresponse 1.74301
+class : leopardsresponse 1.81258
+class : zebraresponse 1.69513
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0241_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.82668
+class : automobilesresponse 0.859746
+class : leopardsresponse 0.873828
+class : zebraresponse -0.658622
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0242_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.47716
+class : automobilesresponse 2.28218
+class : leopardsresponse 5.97421
+class : zebraresponse 2.6369
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0243_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.47411
+class : automobilesresponse 1.89205
+class : leopardsresponse 6.51476
+class : zebraresponse -9.75213
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0244_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.72567
+class : automobilesresponse 1.93367
+class : leopardsresponse -3.21926
+class : zebraresponse 1.61758
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0245_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.443847
+class : automobilesresponse -0.622752
+class : leopardsresponse 1.46375
+class : zebraresponse 1.48632
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0246_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.910048
+class : automobilesresponse 1.06099
+class : leopardsresponse 0.11701
+class : zebraresponse -2.88222
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0247_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.00562
+class : automobilesresponse 1.09222
+class : leopardsresponse -0.539568
+class : zebraresponse 1.08522
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0248_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.75944
+class : automobilesresponse 1.07174
+class : leopardsresponse 3.91126
+class : zebraresponse -3.16883
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0249_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.1145
+class : automobilesresponse -0.357973
+class : leopardsresponse 2.96437
+class : zebraresponse 0.367401
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0250_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.29463
+class : automobilesresponse 2.28563
+class : leopardsresponse -2.32447
+class : zebraresponse 1.56192
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0251_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.05485
+class : automobilesresponse 1.24602
+class : leopardsresponse 7.00938
+class : zebraresponse 2.39992
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0252_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.63207e-05
+class : automobilesresponse 1.68836
+class : leopardsresponse 9.55972
+class : zebraresponse 3.30412
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0253_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.988955
+class : automobilesresponse 1.46188
+class : leopardsresponse -0.87498
+class : zebraresponse 1.11926
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0254_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 1
+ detected classes : 2
+class : leopardsresponse -1.94541
+class : zebraresponse -0.784468
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0255_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.772828
+class : automobilesresponse 1.22529
+class : leopardsresponse 4.08195
+class : zebraresponse -0.83788
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0256_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.11968
+class : automobilesresponse 1.46511
+class : leopardsresponse 5.93918
+class : zebraresponse 2.00278
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0257_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.606094
+class : automobilesresponse 0.937944
+class : leopardsresponse 4.74869
+class : zebraresponse -1.91549
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0258_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.876803
+class : automobilesresponse 2.07208
+class : leopardsresponse -0.966433
+class : zebraresponse 0.70328
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0259_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 1
+ detected classes : 2
+class : leopardsresponse -0.155119
+class : zebraresponse -0.919891
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0260_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.798031
+class : automobilesresponse 1.87398
+class : leopardsresponse 1.29876
+class : zebraresponse 1.5669
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0261_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.585888
+class : automobilesresponse 0.585072
+class : leopardsresponse 1.49739
+class : zebraresponse -0.0703211
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0262_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.23206
+class : automobilesresponse 1.55391
+class : leopardsresponse -1.31301
+class : zebraresponse 1.0786
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0263_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.16268
+class : automobilesresponse 1.38241
+class : leopardsresponse -1.2358
+class : zebraresponse 1.28155
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0264_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.06896
+class : automobilesresponse 0.440251
+class : leopardsresponse -0.373479
+class : zebraresponse 1.11299
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0265_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.34375
+class : automobilesresponse 1.86226
+class : leopardsresponse 1.70369
+class : zebraresponse 1.76703
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0266_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.64493
+class : automobilesresponse 1.01412
+class : leopardsresponse 1.81719
+class : zebraresponse -1.44901
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0267_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.82779
+class : automobilesresponse 1.10208
+class : leopardsresponse 5.69609
+class : zebraresponse -3.11907
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0268_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.803565
+class : automobilesresponse -1.11908
+class : leopardsresponse 1.13902
+class : zebraresponse 1.44737
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0269_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.38503
+class : automobilesresponse 0.780733
+class : leopardsresponse -0.492714
+class : zebraresponse 0.87793
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0270_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.783493
+class : automobilesresponse 1.25837
+class : leopardsresponse 3.40289
+class : zebraresponse -2.93491
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0271_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.4304
+class : automobilesresponse 1.23654
+class : leopardsresponse -1.40306
+class : zebraresponse 0.512731
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0272_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.967488
+class : automobilesresponse -0.925242
+class : leopardsresponse 1.26292
+class : zebraresponse 1.25099
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0273_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.52703
+class : automobilesresponse 1.61213
+class : leopardsresponse -0.862918
+class : zebraresponse 0.587185
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0274_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.67286
+class : automobilesresponse 1.07164
+class : leopardsresponse 5.9275
+class : zebraresponse 2.57102
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0275_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.976724
+class : automobilesresponse 0.827677
+class : leopardsresponse 2.93725
+class : zebraresponse -0.62517
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0276_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.671108
+class : automobilesresponse -0.187789
+class : leopardsresponse 1.15547
+class : zebraresponse 1.21781
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0277_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.52577
+class : automobilesresponse 0.515424
+class : leopardsresponse -0.590011
+class : zebraresponse 1.12294
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0278_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.03257
+class : automobilesresponse 2.13634
+class : leopardsresponse -1.31923
+class : zebraresponse 1.03785
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0279_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.37484
+class : automobilesresponse -0.50247
+class : leopardsresponse 0.327105
+class : zebraresponse 0.793076
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0280_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.0535418
+class : automobilesresponse -1.53142
+class : leopardsresponse 2.92762
+class : zebraresponse 1.9448
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0281_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.885254
+class : automobilesresponse 1.58034
+class : leopardsresponse 1.23994
+class : zebraresponse 1.48392
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0282_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.819062
+class : automobilesresponse -0.48658
+class : leopardsresponse 1.05862
+class : zebraresponse 1.16356
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0283_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.37822
+class : automobilesresponse 1.18447
+class : leopardsresponse 0.843815
+class : zebraresponse 1.25974
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0284_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.650284
+class : automobilesresponse -1.15782
+class : leopardsresponse 1.43768
+class : zebraresponse 1.46866
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0285_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.23577
+class : automobilesresponse 0.636215
+class : leopardsresponse 5.84931
+class : zebraresponse 2.5731
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0286_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.586296
+class : automobilesresponse 0.62275
+class : leopardsresponse 3.58083
+class : zebraresponse 1.43181
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0287_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.798664
+class : automobilesresponse 0.538616
+class : leopardsresponse 3.70581
+class : zebraresponse 0.541935
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0288_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.715174
+class : automobilesresponse 1.2891
+class : leopardsresponse 2.60968
+class : zebraresponse 1.25701
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0289_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.24086
+class : automobilesresponse 0.522511
+class : leopardsresponse 5.36938
+class : zebraresponse 2.56391
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0290_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.37156
+class : automobilesresponse 1.02421
+class : leopardsresponse -0.895404
+class : zebraresponse 1.04873
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0291_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.863985
+class : automobilesresponse 2.49561
+class : leopardsresponse -1.41441
+class : zebraresponse 1.01684
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0292_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.68194
+class : automobilesresponse 2.08485
+class : leopardsresponse 2.89899
+class : zebraresponse 1.66981
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0293_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.356
+class : automobilesresponse -0.81915
+class : leopardsresponse 0.95811
+class : zebraresponse 0.940728
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0294_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.19739
+class : automobilesresponse 1.46559
+class : leopardsresponse -2.61108
+class : zebraresponse 2.28542
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0295_automobiles
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.330396
+class : automobilesresponse 1.11406
+class : leopardsresponse 2.0176
+class : zebraresponse 0.829551
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0296_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.082739
+class : automobilesresponse 0.969432
+class : leopardsresponse 2.51501
+class : zebraresponse 0.581031
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0297_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.02543
+class : automobilesresponse 1.1078
+class : leopardsresponse 1.1143
+class : zebraresponse -1.61743
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0298_zebra
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 1
+ detected classes : 2
+class : automobilesresponse -0.152086
+class : zebraresponse -0.136905
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0299_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.48033
+class : automobilesresponse -0.727368
+class : leopardsresponse 0.811769
+class : zebraresponse 0.633075
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0300_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.547966
+class : automobilesresponse 1.45232
+class : leopardsresponse 7.85887
+class : zebraresponse -1.4647
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0301_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.95819
+class : automobilesresponse 1.1172
+class : leopardsresponse 0.382842
+class : zebraresponse -0.256725
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0302_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.747024
+class : automobilesresponse 1.28577
+class : leopardsresponse 1.21134
+class : zebraresponse -3.84768
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0303_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.712214
+class : automobilesresponse -1.20775
+class : leopardsresponse 1.82283
+class : zebraresponse 0.400595
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0304_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.956539
+class : automobilesresponse 0.721867
+class : leopardsresponse -0.251086
+class : zebraresponse 0.980947
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0305_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.23062
+class : automobilesresponse 2.34027
+class : leopardsresponse -2.36427
+class : zebraresponse 1.5484
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0306_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.427107
+class : automobilesresponse -1.26415
+class : leopardsresponse 1.89324
+class : zebraresponse 1.66813
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0307_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.4382
+class : automobilesresponse 1.41847
+class : leopardsresponse -1.4352
+class : zebraresponse 1.32641
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0308_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.70775
+class : automobilesresponse 1.04026
+class : leopardsresponse -1.55546
+class : zebraresponse 1.20122
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0309_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.668672
+class : automobilesresponse -0.69558
+class : leopardsresponse 4.14562
+class : zebraresponse 0.557957
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0310_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.729315
+class : automobilesresponse 0.430233
+class : leopardsresponse 0.00705246
+class : zebraresponse 1.15369
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0311_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.340256
+class : automobilesresponse -0.447467
+class : leopardsresponse 1.18207
+class : zebraresponse 1.54443
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0312_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.0296561
+class : automobilesresponse 0.386167
+class : leopardsresponse 0.82667
+class : zebraresponse 1.47667
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0313_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 2.07162
+class : automobilesresponse 0.533618
+class : leopardsresponse 1.40927
+class : zebraresponse -0.996786
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0314_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.757707
+class : automobilesresponse 1.24744
+class : leopardsresponse 3.78565
+class : zebraresponse -2.69902
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0315_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.998283
+class : automobilesresponse 1.46224
+class : leopardsresponse 5.69949
+class : zebraresponse 2.28275
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0316_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.505284
+class : automobilesresponse -1.35093
+class : leopardsresponse 1.59325
+class : zebraresponse 1.67429
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0317_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.98527
+class : automobilesresponse 2.32321
+class : leopardsresponse 1.90232
+class : zebraresponse 1.68908
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0318_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.04635
+class : automobilesresponse 1.31036
+class : leopardsresponse 1.46697
+class : zebraresponse 1.42931
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0319_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.49057
+class : automobilesresponse 0.71394
+class : leopardsresponse 5.66023
+class : zebraresponse 1.44758
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0320_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.974924
+class : automobilesresponse 0.909112
+class : leopardsresponse 2.69238
+class : zebraresponse -2.0391
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0321_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.173943
+class : automobilesresponse 0.531074
+class : leopardsresponse 7.46249
+class : zebraresponse 2.06323
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0322_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.866177
+class : automobilesresponse 0.964607
+class : leopardsresponse 2.47963
+class : zebraresponse 1.21622
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0323_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.11585
+class : automobilesresponse 0.986594
+class : leopardsresponse 1.50474
+class : zebraresponse -4.2414
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0324_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.726817
+class : automobilesresponse 1.28761
+class : leopardsresponse 1.55901
+class : zebraresponse -1.79993
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0325_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.610973
+class : automobilesresponse -0.41877
+class : leopardsresponse 2.08713
+class : zebraresponse 0.754154
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0326_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.735472
+class : automobilesresponse -0.528145
+class : leopardsresponse 0.738588
+class : zebraresponse 1.05026
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0327_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.423074
+class : automobilesresponse -1.08618
+class : leopardsresponse 1.97063
+class : zebraresponse 1.66601
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0328_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.497825
+class : automobilesresponse -1.91523
+class : leopardsresponse 3.09692
+class : zebraresponse 1.3417
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0329_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.802464
+class : automobilesresponse 1.21611
+class : leopardsresponse 7.83407
+class : zebraresponse -3.85927
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0330_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.74711
+class : automobilesresponse 0.751459
+class : leopardsresponse -0.895433
+class : zebraresponse 1.0685
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0331_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.781188
+class : automobilesresponse 1.26133
+class : leopardsresponse 5.27481
+class : zebraresponse -4.35606
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0332_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.924943
+class : automobilesresponse 1.2928
+class : leopardsresponse 4.49926
+class : zebraresponse -6.37149
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0333_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.3356
+class : automobilesresponse 1.5165
+class : leopardsresponse 6.8715
+class : zebraresponse 1.9077
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0334_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.54434
+class : automobilesresponse 1.02061
+class : leopardsresponse 3.80441
+class : zebraresponse -4.19543
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0335_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.65742
+class : automobilesresponse 0.111973
+class : leopardsresponse 0.689712
+class : zebraresponse 0.668786
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0336_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.6639
+class : automobilesresponse 2.52603
+class : leopardsresponse 5.28647
+class : zebraresponse 1.90014
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0337_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.86366
+class : automobilesresponse 2.27905
+class : leopardsresponse 1.78999
+class : zebraresponse -1.25341
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0338_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.60273
+class : automobilesresponse 1.31608
+class : leopardsresponse 2.88655
+class : zebraresponse 2.43461
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0339_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.421565
+class : automobilesresponse 0.868823
+class : leopardsresponse 1.40743
+class : zebraresponse 1.45922
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0340_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.46835
+class : automobilesresponse 1.06399
+class : leopardsresponse -0.987806
+class : zebraresponse 0.943942
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0341_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.963512
+class : automobilesresponse 0.760266
+class : leopardsresponse 6.15116
+class : zebraresponse 2.58275
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0342_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.32005
+class : automobilesresponse 0.94996
+class : leopardsresponse -1.24369
+class : zebraresponse 1.36203
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0343_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.65041
+class : automobilesresponse 1.47666
+class : leopardsresponse 5.04276
+class : zebraresponse 2.30239
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0344_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.986574
+class : automobilesresponse 1.89702
+class : leopardsresponse -0.863687
+class : zebraresponse 0.865832
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0345_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.850786
+class : automobilesresponse 2.74103
+class : leopardsresponse -1.60262
+class : zebraresponse 0.977545
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0346_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.23378
+class : automobilesresponse 1.1824
+class : leopardsresponse -0.719936
+class : zebraresponse 0.821005
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0347_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 0.972904
+class : automobilesresponse 1.5945
+class : leopardsresponse -5.36002
+class : zebraresponse 1.03833
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0348_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.885034
+class : automobilesresponse 1.37731
+class : leopardsresponse 5.07593
+class : zebraresponse -2.73535
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0349_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.996234
+class : automobilesresponse -0.645131
+class : leopardsresponse 1.05604
+class : zebraresponse 0.966868
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0350_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.798022
+class : automobilesresponse 1.22479
+class : leopardsresponse 3.65611
+class : zebraresponse -0.779533
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0351_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.845161
+class : automobilesresponse 1.61066
+class : leopardsresponse 2.4284
+class : zebraresponse 1.28266
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0352_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.39803
+class : automobilesresponse 1.05208
+class : leopardsresponse -0.993542
+class : zebraresponse 1.05639
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0353_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.812112
+class : automobilesresponse 0.624766
+class : leopardsresponse 3.39506
+class : zebraresponse 0.449124
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0354_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.0524
+class : automobilesresponse -0.71179
+class : leopardsresponse 1.24657
+class : zebraresponse 1.08882
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0355_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.844425
+class : automobilesresponse 0.433525
+class : leopardsresponse 4.06995
+class : zebraresponse -1.0625
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0356_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.905778
+class : automobilesresponse 1.34618
+class : leopardsresponse 6.01938
+class : zebraresponse 2.27754
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0357_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.31324
+class : automobilesresponse 1.67837
+class : leopardsresponse 4.8363
+class : zebraresponse 1.23615
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0358_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.25258
+class : automobilesresponse 2.33588
+class : leopardsresponse 2.15917
+class : zebraresponse -2.73437
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0359_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.534593
+class : automobilesresponse 0.346907
+class : leopardsresponse 7.85065
+class : zebraresponse 0.55276
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0360_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.958582
+class : automobilesresponse 0.771438
+class : leopardsresponse 1.19844
+class : zebraresponse -2.29222
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0361_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.868445
+class : automobilesresponse 1.20912
+class : leopardsresponse 7.59058
+class : zebraresponse -7.1405
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0362_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.803722
+class : automobilesresponse 1.26672
+class : leopardsresponse 5.79846
+class : zebraresponse -7.1728
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0363_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.22629
+class : automobilesresponse 1.26431
+class : leopardsresponse -0.958858
+class : zebraresponse 1.11125
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0364_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.810102
+class : automobilesresponse 1.06028
+class : leopardsresponse 4.82356
+class : zebraresponse -2.14042
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0365_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.716732
+class : automobilesresponse 1.28908
+class : leopardsresponse 7.11923
+class : zebraresponse -2.1048
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0366_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.25665
+class : automobilesresponse 0.788792
+class : leopardsresponse 5.97896
+class : zebraresponse -3.3281
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0367_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.789161
+class : automobilesresponse -0.0356341
+class : leopardsresponse 0.715348
+class : zebraresponse 0.916235
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0368_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.67221
+class : automobilesresponse 1.50073
+class : leopardsresponse 2.14815
+class : zebraresponse -2.97456
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0369_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.838795
+class : automobilesresponse 0.662477
+class : leopardsresponse 0.504694
+class : zebraresponse 0.456614
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0370_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.82203
+class : automobilesresponse 1.21544
+class : leopardsresponse 2.45895
+class : zebraresponse -2.4215
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0371_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.65522
+class : automobilesresponse 0.75455
+class : leopardsresponse -1.03177
+class : zebraresponse 0.937622
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0372_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.07657
+class : automobilesresponse 1.69258
+class : leopardsresponse -0.995855
+class : zebraresponse 1.1403
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0373_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.06626
+class : automobilesresponse -0.644387
+class : leopardsresponse 0.593275
+class : zebraresponse 1.31132
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0374_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.29861
+class : automobilesresponse 0.930575
+class : leopardsresponse 0.735066
+class : zebraresponse 0.933991
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0375_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.999206
+class : automobilesresponse -0.996992
+class : leopardsresponse 1.14771
+class : zebraresponse 1.19699
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0376_automobiles
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.10101
+class : automobilesresponse 1.13095
+class : leopardsresponse 1.90465
+class : zebraresponse 1.22004
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0377_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.825732
+class : automobilesresponse -0.453488
+class : leopardsresponse 6.88625
+class : zebraresponse 1.07527
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0378_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.648929
+class : automobilesresponse 1.49198
+class : leopardsresponse 5.99661
+class : zebraresponse 1.76134
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0379_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 1
+ detected classes : 2
+class : leopardsresponse -1.7419
+class : zebraresponse -1.74464
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0380_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.16412
+class : automobilesresponse 1.23637
+class : leopardsresponse 1.12818
+class : zebraresponse -4.90346
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0381_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.775312
+class : automobilesresponse 1.21203
+class : leopardsresponse 2.17668
+class : zebraresponse -2.03394
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0382_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.00078
+class : automobilesresponse -0.996093
+class : leopardsresponse 0.999953
+class : zebraresponse 1.20707
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0383_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.48729
+class : automobilesresponse 1.08604
+class : leopardsresponse 7.77286
+class : zebraresponse 2.63062
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0384_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.38486
+class : automobilesresponse 0.172528
+class : leopardsresponse 1.09123
+class : zebraresponse 0.172199
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0385_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -1.70532
+class : automobilesresponse 1.10537
+class : leopardsresponse 6.02372
+class : zebraresponse 1.53515
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0386_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.00078
+class : automobilesresponse -0.996093
+class : leopardsresponse 0.999953
+class : zebraresponse 1.20707
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0387_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.95416
+class : automobilesresponse 1.10665
+class : leopardsresponse 2.69967
+class : zebraresponse -4.20488
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0388_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.0486801
+class : automobilesresponse 0.513587
+class : leopardsresponse 4.7118
+class : zebraresponse 2.35658
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0389_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.715541
+class : automobilesresponse 1.79661
+class : leopardsresponse 1.00651
+class : zebraresponse -0.0286043
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0390_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.312169
+class : automobilesresponse 0.824547
+class : leopardsresponse 0.997478
+class : zebraresponse 1.15625
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0391_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -2.20619
+class : automobilesresponse 1.95158
+class : leopardsresponse 5.87274
+class : zebraresponse 2.62626
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0392_airplane_side
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.714535
+class : automobilesresponse 1.28623
+class : leopardsresponse 7.45951
+class : zebraresponse -1.61416
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0393_airplane_side
+class : airplaneresponse 1
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse -0.99858
+class : automobilesresponse 1.01626
+class : leopardsresponse 6.10318
+class : zebraresponse 3.04041
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0394_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 0.747102
+class : automobilesresponse 1.28409
+class : leopardsresponse 2.01599
+class : zebraresponse -3.0861
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0395_zebra
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 1
+class : airplaneresponse 1.15953
+class : automobilesresponse 1.0823
+class : leopardsresponse 2.64204
+class : zebraresponse -5.14151
+ detected class is : zebra
+response size is 1x 800
+Test Image name : 0396_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.262891
+class : automobilesresponse 1.18654
+class : leopardsresponse 3.78569
+class : zebraresponse 1.2883
+ detected class is : airplane
+response size is 1x 800
+Test Image name : 0397_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 1
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 1.06083
+class : automobilesresponse -1.34322
+class : leopardsresponse 1.88064
+class : zebraresponse 1.36642
+ detected class is : automobiles
+response size is 1x 800
+Test Image name : 0398_leopards
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 1
+class : zebraresponse 0
+class : airplaneresponse 1.24819
+class : automobilesresponse 1.39587
+class : leopardsresponse -1.05882
+class : zebraresponse 0.941022
+ detected class is : leopards
+response size is 1x 800
+Test Image name : 0399_automobiles
+class : airplaneresponse 0
+class : automobilesresponse 0
+class : leopardsresponse 0
+class : zebraresponse 0
+class : airplaneresponse 0.660805
+class : automobilesresponse 1.18426
+class : leopardsresponse 9.32206
+class : zebraresponse 2.49245
+ detected class is : airplane
+
+Test Image : 0026_zebra  Detected Class : airplane
+Test Image : 0030_leopards  Detected Class : zebra
+Test Image : 0034_automobiles  Detected Class : zebra
+Test Image : 0064_automobiles  Detected Class : airplane
+Test Image : 0083_leopards  Detected Class : automobiles
+Test Image : 0085_automobiles  Detected Class : zebra
+Test Image : 0086_airplane_side  Detected Class : automobiles
+Test Image : 0110_leopards  Detected Class : automobiles
+Test Image : 0118_leopards  Detected Class : airplane
+Test Image : 0125_automobiles  Detected Class : zebra
+Test Image : 0126_leopards  Detected Class : automobiles
+Test Image : 0137_zebra  Detected Class : leopards
+Test Image : 0145_leopards  Detected Class : zebra
+Test Image : 0164_zebra  Detected Class : automobiles
+Test Image : 0179_zebra  Detected Class : leopards
+Test Image : 0197_automobiles  Detected Class : zebra
+Test Image : 0222_zebra  Detected Class : automobiles
+Test Image : 0223_automobiles  Detected Class : leopards
+Test Image : 0224_automobiles  Detected Class : airplane
+Test Image : 0227_airplane_side  Detected Class : zebra
+Test Image : 0254_zebra  Detected Class : leopards
+Test Image : 0287_airplane_side  Detected Class : automobiles
+Test Image : 0288_leopards  Detected Class : airplane
+Test Image : 0295_automobiles  Detected Class : airplane
+Test Image : 0298_zebra  Detected Class : automobiles
+Test Image : 0310_automobiles  Detected Class : leopards
+Test Image : 0353_automobiles  Detected Class : zebra
+Test Image : 0361_automobiles  Detected Class : zebra
+Test Image : 0369_leopards  Detected Class : zebra
+Test Image : 0374_automobiles  Detected Class : airplane
+Test Image : 0376_automobiles  Detected Class : airplane
+Test Image : 0388_automobiles  Detected Class : airplane
+Test Image : 0392_airplane_side  Detected Class : zebra
+Test Image : 0396_automobiles  Detected Class : airplane
+Test Image : 0399_automobiles  Detected Class : airplane
+no of airplanes : 100
+ no of airplane : 96
+ no of automobiles : 2
+ no of leopards : 0
+ no of zebra : 2
+no of automobiles : 100
+ no of airplane : 8
+ no of automobiles : 84
+ no of leopards : 2
+ no of zebra : 6
+no of leopards : 100
+ no of airplane : 2
+ no of automobiles : 3
+ no of leopards : 92
+ no of zebra : 3
+no of zebra: 100
+ no of airplane : 1
+ no of automobiles : 3
+ no of leopards : 3
+ no of zebra : 93

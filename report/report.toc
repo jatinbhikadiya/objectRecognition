@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Objective}{2}
+\contentsline {section}{\numberline {3}Techniques for feature extraction}{2}
+\contentsline {subsection}{\numberline {3.1}Line Extraction based on Hough Transform}{2}
+\contentsline {subsection}{\numberline {3.2}Grabcut}{3}
+\contentsline {subsection}{\numberline {3.3}Circular Hough Transform}{4}
+\contentsline {subsection}{\numberline {3.4}Scale-invariant feature transform }{4}
+\contentsline {subsection}{\numberline {3.5}Histogram of Oriented gradients}{5}

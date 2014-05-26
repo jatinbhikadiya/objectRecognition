@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{Dalal:2005:HOG:1068507.1069007}
+Navneet Dalal and Bill Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In {\em Proceedings of the 2005 IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition (CVPR'05) - Volume 1 - Volume 01},
+  CVPR '05, pages 886--893, Washington, DC, USA, 2005. IEEE Computer Society.
+
+\bibitem{Lowe:2004:DIF:993451.996342}
+David~G. Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock {\em Int. J. Comput. Vision}, 60(2):91--110, November 2004.
+
+\bibitem{Rother:2004:GIF:1015706.1015720}
+Carsten Rother, Vladimir Kolmogorov, and Andrew Blake.
+\newblock "grabcut": interactive foreground extraction using iterated graph
+  cuts.
+\newblock {\em ACM Trans. Graph.}, 23(3):309--314, August 2004.
+
+\end{thebibliography}
